@@ -3,61 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zhyfreefly.github.io/categories/</loc>
-    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
+    <loc>https://www.51maita.com/post/</loc>
+    <lastmod>2021-03-05T14:31:34+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zhyfreefly.github.io/categories/Golang/</loc>
-    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
+    <loc>https://www.51maita.com/post/shuxue-qiaosuan/</loc>
+    <lastmod>2021-03-05T14:31:34+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zhyfreefly.github.io/tags/golang/</loc>
-    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhyfreefly.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</loc>
-    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhyfreefly.github.io/post/</loc>
-    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhyfreefly.github.io/tags/</loc>
-    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhyfreefly.github.io/post/2019-12-13-golang-gin-parameters-in-path/</loc>
-    <lastmod>2019-12-13T21:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhyfreefly.github.io/post/2019-12-15-golang-gin-query-parameters-source-code-analysis/</loc>
-    <lastmod>2019-12-13T21:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhyfreefly.github.io/about/</loc>
+    <loc>https://www.51maita.com/about/</loc>
     <lastmod>2015-03-10T00:13:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zhyfreefly.github.io/</loc>
+    <loc>https://www.51maita.com/</loc>
     <lastmod>2015-03-10T00:13:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zhyfreefly.github.io/archives/</loc>
+    <loc>https://www.51maita.com/categories/</loc>
   </url>
   
   <url>
-    <loc>https://zhyfreefly.github.io/search/</loc>
+    <loc>https://www.51maita.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.51maita.com/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.51maita.com/search/</loc>
   </url>
   
 </urlset>
