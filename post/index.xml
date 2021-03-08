@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 娃娃经</title>
-    <link>https://www.51maita.com/post/</link>
-    <description>Recent content in Posts on 娃娃经</description>
+    <title>Posts on 码农谈养娃</title>
+    <link>https://zhyfreefly.github.io/post/</link>
+    <description>Recent content in Posts on 码农谈养娃</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Fri, 05 Mar 2021 14:31:34 +0800</lastBuildDate>
     
-	<atom:link href="https://www.51maita.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zhyfreefly.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>小学一年级-数学速算口诀</title>
-      <link>https://www.51maita.com/post/shuxue-qiaosuan/</link>
+      <link>https://zhyfreefly.github.io/post/shuxue-qiaosuan/</link>
       <pubDate>Fri, 05 Mar 2021 14:31:34 +0800</pubDate>
       
-      <guid>https://www.51maita.com/post/shuxue-qiaosuan/</guid>
+      <guid>https://zhyfreefly.github.io/post/shuxue-qiaosuan/</guid>
       <description>速算和巧算 1. 加法交换律 两个数相加，交换两个加数的位置，和不变，叫做加法交换律。 a + b = b + a 2. 加法结合律 三个数相加，先把前二个数相加，再加第三个数，或者，先把后二个数相加，再加上第一个数，其和不变。这叫做加法结合律。 a + b + c = (a + b) + c = a + (b + c) 3. 减法性质 在减法中，被减数、减</description>
     </item>
     
