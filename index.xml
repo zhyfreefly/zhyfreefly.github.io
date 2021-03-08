@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>码农谈养娃</title>
-    <link>https://zhyfreefly.github.io/</link>
+    <link>http://www.51maita.com/</link>
     <description>Recent content on 码农谈养娃</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Tue, 10 Mar 2015 00:13:27 +0000</lastBuildDate>
     
-	<atom:link href="https://zhyfreefly.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.51maita.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>小学一年级-数学速算口诀</title>
-      <link>https://zhyfreefly.github.io/post/shuxue-qiaosuan/</link>
+      <link>http://www.51maita.com/post/shuxue-qiaosuan/</link>
       <pubDate>Fri, 05 Mar 2021 14:31:34 +0800</pubDate>
       
-      <guid>https://zhyfreefly.github.io/post/shuxue-qiaosuan/</guid>
+      <guid>http://www.51maita.com/post/shuxue-qiaosuan/</guid>
       <description>速算和巧算 1. 加法交换律 两个数相加，交换两个加数的位置，和不变，叫做加法交换律。 a + b = b + a 2. 加法结合律 三个数相加，先把前二个数相加，再加第三个数，或者，先把后二个数相加，再加上第一个数，其和不变。这叫做加法结合律。 a + b + c = (a + b) + c = a + (b + c) 3. 减法性质 在减法中，被减数、减</description>
     </item>
     
     <item>
       <title>关于我</title>
-      <link>https://zhyfreefly.github.io/about/</link>
+      <link>http://www.51maita.com/about/</link>
       <pubDate>Tue, 10 Mar 2015 00:13:27 +0000</pubDate>
       
-      <guid>https://zhyfreefly.github.io/about/</guid>
+      <guid>http://www.51maita.com/about/</guid>
       <description>《Go 实战笔记》系列作者，《Golang Gin 实战》系列作者，《Android Gradle权威指南》作者，现负责技术管理。 Android Gradle权威指南 公众号，扫码关注</description>
     </item>
     
     <item>
       <title>归档</title>
-      <link>https://zhyfreefly.github.io/archives/</link>
+      <link>http://www.51maita.com/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zhyfreefly.github.io/archives/</guid>
+      <guid>http://www.51maita.com/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>搜索</title>
-      <link>https://zhyfreefly.github.io/search/</link>
+      <link>http://www.51maita.com/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zhyfreefly.github.io/search/</guid>
+      <guid>http://www.51maita.com/search/</guid>
       <description></description>
     </item>
     
